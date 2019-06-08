@@ -1,6 +1,6 @@
 # MachineLearning practice materials
 
-This is an updated Repository on Introduction to Machine Learning for the Google I/O Extended event in Addis Ababa, GDGAddis.
+This is an updated Repository on Introduction to Machine Learning for the Google IO19 Extended event in Addis Ababa, GDGAddis.
 
 
 > How To Use It?
