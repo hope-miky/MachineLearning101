@@ -26,6 +26,11 @@ $ pip3 install pandas
 $ pip3 install matplotlib
 $ pip3 install scikit-learn
 ```
+Additional libraries
+```
+$ pip3 install jupyter
+$ pip3 install spyder
+```
 # Enjoy!
 =======
 
