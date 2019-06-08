@@ -21,15 +21,14 @@ And then install the libraries listed below (if not avalable)
 * [Matplotlib](https://anaconda.org/conda-forge/matplotlib)
 * [Scikit-Learn](https://anaconda.org/anaconda/scikit-learn)
 
-### or use
-
+```
 $ pip3 install numpy
 $ pip3 install pandas
 $ pip3 install matplotlib
 $ pip3 install scikit-learn
-
+```
 # Enjoy!
 =======
+
 # MachineLearning101
 Introduction to machine learning 
->>>>>>> f70c8b697696c0b677c8d085f2e9d49a8ee7d7f7
