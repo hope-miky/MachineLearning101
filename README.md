@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 # MachineLearningpracticescripts
 
 This is an updated Repository on Introduction to Machine Learning for the DEVFest event in Addis Ababa, GDGAddis.
 
 
-## How To Use It?
+> How To Use It?
 
 Clone the repository to your local computer and then you can go through 
 the codes by opening Jupyter noebook in the cloned folder.
 
-yep
-## What Do I need to Run The Codes?
+
+> What Do I need to Run The Codes?
 
 First of all you have to download and install [Anaconda](https://www.anaconda.com/download/) or any **python 2 IDLE**, 
 And then install the libraries listed below (if not avalable) 
