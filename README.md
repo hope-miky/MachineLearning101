@@ -1,4 +1,4 @@
-# MachineLearningpracticescripts
+# MachineLearning practice materials
 
 This is an updated Repository on Introduction to Machine Learning for the DEVFest event in Addis Ababa, GDGAddis.
 
