@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MachineLearningpracticescripts
 
 This is an updated Repository on Introduction to Machine Learning for the DEVFest event in Addis Ababa, GDGAddis.
@@ -8,7 +9,7 @@ This is an updated Repository on Introduction to Machine Learning for the DEVFes
 Clone the repository to your local computer and then you can go through 
 the codes by opening Jupyter noebook in the cloned folder.
 
-
+yep
 ## What Do I need to Run The Codes?
 
 First of all you have to download and install [Anaconda](https://www.anaconda.com/download/) or any **python 2 IDLE**, 
@@ -28,3 +29,7 @@ $ pip3 install matplotlib
 $ pip3 install scikit-learn
 
 # Enjoy!
+=======
+# MachineLearning101
+Introduction to machine learning 
+>>>>>>> f70c8b697696c0b677c8d085f2e9d49a8ee7d7f7
